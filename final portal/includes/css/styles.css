@@ -1,0 +1,107 @@
+/*
+
+My Custom CSS
+=============
+
+Author:  Brad Hussey
+Updated: August 2013
+Notes:	 Hand coded for Udemy.com
+
+*/
+footer
+{
+  margin-top: 20px;
+  background: #333;
+  color:#eee;
+  font-size: 11px;
+  padding: 20px;
+}
+ul.unstyled
+{
+  list-style: none;
+  padding:0;
+}
+
+/* --------------------------------------
+   Layout
+   -------------------------------------- */
+
+#sd
+{
+  font-family: "Georgia";
+  font-weight: bold;
+  margin-top: 30px;
+}
+#qw
+{
+  font-family: "Georgia";
+  font-weight: bold;
+  }
+#asd1
+{
+   width: 80px;
+}
+#asd
+{
+  width:260px;
+   margin-top: 10px;
+   font-size: 10px;
+}
+#qw1
+{
+  font-family: "Georgia";
+  font-weight: bold;
+  margin-top: 15px;
+  }
+  .navbar
+  {
+   background-color: #ffffff;
+  }
+
+/* --------------------------------------
+   Typography
+   -------------------------------------- */
+
+
+
+/* --------------------------------------
+   Navbar
+   -------------------------------------- */
+   
+   
+   
+/* --------------------------------------
+   Carousel
+   -------------------------------------- */
+
+
+
+/* --------------------------------------
+   Global Styles
+   -------------------------------------- */
+
+
+
+/* --------------------------------------
+   Media Queries
+   -------------------------------------- */
+
+/* Portrait & landscape phone */
+@media (max-width: 480px) {
+ 
+	
+}
+
+/* Landscape phone to portrait tablet */
+@media (max-width: 768px) {
+	
+}
+
+/* Large desktop */
+@media (min-width: 1200px) {
+	 #qwe
+{
+  margin-left:100px;
+
+}
+}
